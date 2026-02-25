@@ -1,4 +1,4 @@
-# ECM Attendance Unhider (SMU/SMIT)
+# ECM Attendance Unhider (SMIT)
 
 Unhides the **Attendance & Internal Marks** table on the eCampus Manager student portal.
 
